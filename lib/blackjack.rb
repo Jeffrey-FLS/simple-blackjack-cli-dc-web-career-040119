@@ -44,7 +44,6 @@ end
 
 def invalid_command
   puts  "Please enter a valid command"
-  # get_user_input
 end
 
 #####################################################
@@ -60,6 +59,5 @@ def runner
   end
   
   end_game(cardTotal)
-  # display_card_total(cardTotal)
 end
     
